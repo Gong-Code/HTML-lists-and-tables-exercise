@@ -1,0 +1,32 @@
+table {
+    width: 40%;
+
+}
+
+caption {
+    
+    text-align: center;
+}
+
+th {
+    text-align: center;
+    
+    
+    border-spacing: 40px;
+}
+
+table, th, td  {
+    border: 1px solid black;
+    text-align: left;
+    
+    /* border-collapse: collapse; */
+}
+
+th, td{
+    padding: 10px;    
+}
+
+/* tr:nth-child(even){
+    background-color: gray;
+} */
+  
